@@ -1,6 +1,6 @@
 ## Hi there, I'm Rishabh Damle! 👋
 
-I'm a Software engineer
+## I'm a Software engineer
 
 ### 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/rishabh-damle-2a1817216/)

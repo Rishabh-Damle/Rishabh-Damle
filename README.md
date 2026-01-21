@@ -3,7 +3,7 @@
 ### I'm a Software engineer
 
 ### 🔗 Links
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rishabh-damle-2a1817216/)
+- X : [X](https://x.com/rishabhstwtt)
 
 ### 📫 Get in touch
 - Email: dwrushabh@gmail.com

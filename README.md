@@ -1,8 +1,8 @@
 # Hi, I'm Rishabh 👋
 
-###🤖 Developer / Tinkerer / Absurdist 
+### 🤖 Developer / Tinkerer / Absurdist 
 
-#### I am a hobbyist software developer and a tinkerer.
+I am a hobbyist software developer and a tinkerer.
 
 ## 🚀 Current Projects
 

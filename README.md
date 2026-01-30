@@ -1,8 +1,8 @@
 # Hi, I'm Rishabh 👋
 
-📍 Pune, India | 🤖 Serial builder & shipper  
+🤖 Developer / Tinkerer / Absurdist 
 
-> Deep in building mode – building products that people love at ludicrous speed. Since I started shipping, I’ve never looked back, and my ultimate goal is to breathe as a founder.
+I am a hobbyist software developer and a tinkerer.
 
 ## 🚀 Current Projects
 

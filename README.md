@@ -1,8 +1,8 @@
 # Hi, I'm Rishabh 👋
 
-🤖 Developer / Tinkerer / Absurdist 
+### 🤖 Developer / Tinkerer / Absurdist 
 
-I am a hobbyist software developer and a tinkerer.
+### I am a hobbyist software developer and a tinkerer.
 
 ## 🚀 Current Projects
 
@@ -24,5 +24,3 @@ I am a hobbyist software developer and a tinkerer.
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rishabh-Damle)
 
 
-### Philosophy
-> "Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development.

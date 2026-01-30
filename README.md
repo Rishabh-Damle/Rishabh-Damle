@@ -2,7 +2,7 @@
 
 📍 Pune, India | 🤖 Serial builder & shipper  
 
-> Passionate dev. Ships a lot. Builds products people love.
+> Deep in building mode – building products that people love at ludicrous speed. Since I started shipping, I’ve never looked back, and my ultimate goal is to breathe as a founder.
 
 ## 🚀 Current Projects
 
@@ -16,4 +16,3 @@
 
 🛵 **[FoodVilla](https://github.com/Rishabh-Damle/foodvilla)** - A pure frontend project for an online food delivery application.
 
----

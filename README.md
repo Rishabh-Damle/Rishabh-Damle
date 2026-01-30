@@ -16,6 +16,10 @@
 
 🛵 **[FoodVilla](https://github.com/Rishabh-Damle/foodvilla)** - A pure frontend project for an online food delivery application.
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/Rishabh-Damle)
+
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@rishabh-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/rishabhstwtt)

@@ -19,5 +19,5 @@
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@rishabh-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/rishabhstwtt)
-[![LinkedIn](https://img.shields.io/badge/-Rishabh_Damle?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-damle-2a1817216/)
+[![LinkedIn](https://img.shields.io/badge/-Rishabh_Damle-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-damle-2a1817216/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rishabh-Damle)

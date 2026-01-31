@@ -4,7 +4,7 @@
 
 I am a hobbyist software developer and a tinkerer.
 
-## 🚀 Current Projects
+## Current Projects
 
 - 💰 **[Paisa-Pe](https://github.com/Rishabh-Damle/Paisa-Pe)** - An application that allows users to send money to each other using an initial dummy balance.
 
